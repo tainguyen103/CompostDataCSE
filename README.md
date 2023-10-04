@@ -1,1 +1,3 @@
 # CompostDataCSE
+
+![Screenshot](compostdata.png)
